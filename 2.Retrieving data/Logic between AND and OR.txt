@@ -1,0 +1,33 @@
+AND
+
+If the condition between the two or more condition is:  
+(TRUE) AND (TRUE) = TRUE
+Example: (2 < 7) AND (23 > 8) = TRUE
+
+
+(FALSE) AND (TRUE) = FALSE
+Example: (2 > 7) AND (23 > 8) = FALSE
+
+(TRUE) AND (FALSE) = FALSE
+Example: (2 < 7) AND (23 < 8) = FALSE
+
+
+(FALSE) AND (FALSE) = FALSE
+Example: (2 > 7) AND (23 < 8) = FALSE
+
+OR
+
+(TRUE) OR (TRUE) = TRUE
+Example: (2 < 7) AND (23 > 8) = TRUE
+
+
+(TRUE) OR (FALSE) = TRUE
+Example: (2 < 7) AND (23 < 8) = TURE
+
+
+(FALSE) OR (TRUE) = TRUE
+Example: (2 > 7) AND (23 > 8) = TRUE
+
+
+(FALSE) OR (FALSE) = FALSE
+Example: (2 > 7) AND (23 < 8) = FALSE

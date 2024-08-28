@@ -1,0 +1,7 @@
+
+1.
+Select all data from the batching.apollo_achieve table
+2.
+Only select the Campaign and the relationship column
+3.
+Display the names of the referrors,  their campaign and the date they inserted the campaign.
